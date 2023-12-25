@@ -1,4 +1,4 @@
-### Hi i´m Guilherme 👋
+### Olá! Meu nome é Guilherme 👋
 
 #### Main Stack:
 
