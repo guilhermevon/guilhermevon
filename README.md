@@ -16,5 +16,9 @@
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=dracula&count_private=true)
 
+<div align="center">
+  <img width=50% src="https://giphy.com/gifs/uM0QzrHWSDr4KwbC3v"/>
+</div>
+
 
 
