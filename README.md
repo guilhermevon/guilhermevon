@@ -14,7 +14,7 @@
   <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
 </div><br/>
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme&show_icons=true&theme=dracula&count_private=true)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=dracula&count_private=true)
 
 
 
