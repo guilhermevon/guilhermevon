@@ -17,8 +17,12 @@
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=dracula&count_private=true)
 
 <div align="center">
-  <img width=50% src="https://giphy.com/gifs/uM0QzrHWSDr4KwbC3v"/>
+<img width=50% src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY4bWw4NHdiNTl1dmFhZ2NwNjZhY3JzMmI4OWlzbDAxbThnM2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif"/>
+<h3>
+  17 Years | Junior Full Stack Developer | Web & Mobile Development
+</h3>
 </div>
+<br/>
 
 
 
