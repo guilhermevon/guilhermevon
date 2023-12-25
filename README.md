@@ -12,7 +12,9 @@
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gui-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
   <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-</div>
+</div><br/>
+
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme&show_icons=true&theme=dracula&count_private=true)
 
 
 
