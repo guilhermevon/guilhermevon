@@ -2,7 +2,7 @@
 
 #### Main Stack:
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -14,12 +14,12 @@
   <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
 </div><br/>
 
-<div align="center">
+
   ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=dracula&count_private=true)
-</div>
 
 
-<div align="center">
+
+<div>
 <img width=50% src="https://media2.giphy.com/media/uM0QzrHWSDr4KwbC3v/giphy.gif?cid=ecf05e476hlgzbg7g334awtm5zxlagse9q1sl7k210r5iey6&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 <br/>
