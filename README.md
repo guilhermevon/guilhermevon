@@ -1,20 +1,5 @@
 ### Hi i´m Guilherme 👋
 
-<!--
-**guilhermevon/guilhermevon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 #### Main Stack:
 
 <div style="display: inline_block"><br>
@@ -28,3 +13,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Gui-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
   <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
 </div>
+
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=dracula&count_private=true)
