@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Guilherme 👋
 
 #### Main Stack:
+<div align="center"> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +23,7 @@
 <div>
 <img width=50% src="https://media2.giphy.com/media/uM0QzrHWSDr4KwbC3v/giphy.gif?cid=ecf05e476hlgzbg7g334awtm5zxlagse9q1sl7k210r5iey6&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
+</div> 
 <br/>
 
 
