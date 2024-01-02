@@ -1,7 +1,5 @@
 <div align="center"> 
-### Olá! Meu nome é Guilherme 👋
 
-#### Main Stack:
 
 
 <div style="display: inline_block"><br>
