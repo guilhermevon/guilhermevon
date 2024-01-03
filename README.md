@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center"; justify-content: space-between;> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 <h1>Olá, Meu nome é Guilherme!</h1>
