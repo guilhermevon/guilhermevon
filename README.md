@@ -1,6 +1,6 @@
 <div align="center"; justify-content: space-between;> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=68F779&height=120&section=header"/>
 <h1>Olá, Meu nome é Guilherme!</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
