@@ -25,7 +25,7 @@
 <img width=50% src="https://media2.giphy.com/media/uM0QzrHWSDr4KwbC3v/giphy.gif?cid=ecf05e476hlgzbg7g334awtm5zxlagse9q1sl7k210r5iey6&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=68F779&height=120&section=footer"/>
 </div> 
 <br/>
 
