@@ -15,8 +15,9 @@
 </div><br/>
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&count_private=true&theme=prussian&hide_border=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevon&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermevon&theme=prussian&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Mon"/>
 </div>
 
 
