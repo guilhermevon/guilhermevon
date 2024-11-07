@@ -17,7 +17,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&count_private=true&theme=prussian&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevon&layout=compact&theme=prussian&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermevon&theme=prussian&hide_border=true&border_radius=10&locale=pt_BR&mode=weekly&exclude_days=Mon" alt="GitHub Streak" />
+  
 </div>
 
 
