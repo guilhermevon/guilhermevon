@@ -14,6 +14,8 @@
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gui-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
   <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+   <br>
+    <br>
 <div align="center">
   <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxzYzBxbWlyOTZ5NmN3Nmg0enM1aXAydWY5b3hiNG85NDJoaDluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
 </div>
