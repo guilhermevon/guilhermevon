@@ -3,9 +3,7 @@
 <div align="center">
   <h1>I'm a Full Stack Developer</h1>
   
-<div align="center">
-  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxzYzBxbWlyOTZ5NmN3Nmg0enM1aXAydWY5b3hiNG85NDJoaDluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
-</div>
+
   <br>
  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,7 +14,9 @@
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gui-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
   <img align="center" alt="Gui-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-
+<div align="center">
+  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxzYzBxbWlyOTZ5NmN3Nmg0enM1aXAydWY5b3hiNG85NDJoaDluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
+</div>
 </div>
 <br>
 <h1 align="center">My Github Stats</h1> 
