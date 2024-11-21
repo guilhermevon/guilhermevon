@@ -1,7 +1,7 @@
 
 <br>
 <div align="center">
-  <h1>Olá, meu nome é Guilherme e sou Desenvolvedor Full Stack</h1>
+  <h1>I am a full stack developer</h1>
   <br>
  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
