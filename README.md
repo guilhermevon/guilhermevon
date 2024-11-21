@@ -20,7 +20,6 @@
   <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxzYzBxbWlyOTZ5NmN3Nmg0enM1aXAydWY5b3hiNG85NDJoaDluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
 </div>
 </div>
-<br>
 <h1 align="center">My Github Stats</h1> 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermevon&theme=midnight-purple" alt="GitHub Streak" height="150" />
