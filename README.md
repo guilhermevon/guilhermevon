@@ -2,6 +2,10 @@
 <br>
 <div align="center">
   <h1>I'm a Full Stack Developer</h1>
+  
+<div align="center">
+  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxzYzBxbWlyOTZ5NmN3Nmg0enM1aXAydWY5b3hiNG85NDJoaDluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
+</div>
   <br>
  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -22,9 +26,7 @@
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center">
-  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxzYzBxbWlyOTZ5NmN3Nmg0enM1aXAydWY5b3hiNG85NDJoaDluZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
-</div>
+
 
 
 
