@@ -25,6 +25,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermevon&theme=midnight-purple" alt="GitHub Streak" height="150" />
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevon&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lopesofia20}/count.svg" /></p> 
+<br></div>
 </div>
 
 
