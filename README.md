@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f27ced&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7085FA&height=120&section=header"/>
 <br>
 <div align="center">
   <h1>I'm a Full Stack Developer</h1>
@@ -33,7 +33,7 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f27ced&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7085FA&height=120&section=footer"/>
 
 
 
