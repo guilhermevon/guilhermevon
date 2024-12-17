@@ -22,7 +22,7 @@
 </div>
 <h1 align="center">My Github Stats</h1> 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermevon&theme=midnight-purple" alt="GitHub Streak" height="150" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermevon&theme=midnight-purple" alt="GitHub Streak" height="150" />
   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevon&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
