@@ -32,6 +32,10 @@
 <br></div>
 </div>
 
+<div>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2CGNAOSuO1MEFCbBRgUzjd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7085FA&height=120&section=footer"/>
 
