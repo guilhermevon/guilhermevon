@@ -32,6 +32,7 @@
 <br></div>
 </div>
 
+[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7085FA&height=120&section=footer"/>
 
