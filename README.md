@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Guilherme Carvalho</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack Júnior</strong> <br />
+  <strong>Desenvolvedor Full Stack/Web & Mobile</strong> <br />
   Back-end | Front-end | Mobile | APIs | Estudando diariamente 💻📱
 </p>
 
@@ -41,7 +41,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Busco sempre evolui
 | [provas-atrasadas-front](https://github.com/guilhermecsn/provas-atrasadas-front) | Front-end para consulta de provas | JS, HTML, CSS |
 | [App-Pokemon-Swift](https://github.com/guilhermecsn/App-Pokemon-Swift) | Aplicativo mobile de Pokémons em Swift | Swift |
 
-Veja todos os repositórios [aqui →](https://github.com/guilhermecsn?tab=repositories)
+Veja todos os repositórios [aqui →](https://github.com/guilhermevon?tab=repositories)
 
 ---
 
@@ -56,8 +56,8 @@ Veja todos os repositórios [aqui →](https://github.com/guilhermecsn?tab=repos
 
 ### 📫 Vamos conversar?
 
-- ✉️ E-mail: guilhermecsn@outlook.com
-- 💼 LinkedIn: [linkedin.com/in/guilhermecsn](https://www.linkedin.com/in/guilhermecsn)
+- ✉️ E-mail: contatoguilhermec.2004@gmail.com
+- 💼 LinkedIn: [[linkedin.com/in/guilhermecsn](https://www.linkedin.com/in/guilhermecsn](https://www.linkedin.com/in/guilhermecarvalhoprofile/))
 
 ---
 
