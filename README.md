@@ -52,18 +52,18 @@ Gosto de construir aplicações do zero, entender regras de negócio e entregar 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevon&layout=compact&theme=dracula" alt="Top Langs" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermevon&theme=midnight-purple" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevon&layout=compact&langs_count=7&theme=midnight-purple" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermevon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Top Langs" />
 </p>
 
 ---
 
 ### 📫 Contato
 
-- 📧 E-mail: contatoguilhermec@outlook.com  
-- 💼 LinkedIn: [linkedin.com/in/guilhermecsn](https://www.linkedin.com/in/guilhermecsn)  
-- 🌐 Portfólio: *(adicione aqui se tiver)*  
+- 📧 E-mail: contatoguilhermec.2004@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/guilhermecarvalhoprofile/  
+- 🌐 Portfólio:
 
 ---
 
