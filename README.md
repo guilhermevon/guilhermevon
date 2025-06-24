@@ -8,9 +8,13 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor full stack com ampla experiência em **back-end, front-end e web/mobile**, sempre buscando novas soluções e me aprofundando nas melhores práticas de desenvolvimento.
+Sou um desenvolvedor full stack com forte atuação em back-end, front-end e mobile, com experiência em tecnologias consolidadas e modernas. Tenho como principal objetivo entregar soluções robustas, escaláveis e de alto impacto para os negócios.
 
-Gosto de construir aplicações do zero, entender regras de negócio e entregar código limpo, testável e funcional. Trabalho bem tanto com tecnologias consolidadas como PHP e C#, quanto com stacks modernas como **React**, **Next.js**, **Node.js** e **Flutter**.
+Trabalho com linguagens como PHP, C#, JavaScript, TypeScript, Python, além de stacks modernas como React.js, Next.js, Node.js, React Native, Swift e Kotlin. Também possuo experiência com bancos de dados relacionais e não relacionais, como SQL Server, Oracle, MongoDB e Firebase.
+
+Prezo por código limpo, boas práticas de versionamento, testes, documentação e organização de projeto. Entendo a importância da arquitetura de software, da performance e da experiência do usuário como parte do sucesso de uma aplicação.
+
+Atuo de forma proativa, com foco em resolução de problemas, aprendizado contínuo e colaboração em equipe. Estou sempre em busca de evoluir tecnicamente e contribuir para projetos desafiadores que exigem comprometimento e excelência técnica.
 
 ---
 
