@@ -67,7 +67,7 @@ Atuo de forma proativa, com foco em resolução de problemas, aprendizado contí
 
 - 📧 E-mail: contatoguilhermec.2004@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/guilhermecarvalhoprofile/  
-- 🌐 Portfólio: https://guilhermevon.github.io/portfolio-guilherme/
+- 🌐 Portfólio: https://portfolio-guilhermecarvalho.vercel.app/
 
 ---
 
