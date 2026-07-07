@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About me
+<h1>👨‍💻 About me</h1>
 
 <h1>
   <img src="./Image.gif" width="30px"/> Hello, my name is Guilherme Carvalho!
