@@ -8,15 +8,11 @@
 
 ### 👨‍💻 Sobre mim
 
-Desenvolvedor Full Stack com foco em React.js e Node.js, com experiência na construção de aplicações web escaláveis, integrações com APIs e automação de processos.
+Olá, me chamo Guilherme Carvalho!
 
-Atuo no desenvolvimento de sistemas em produção, incluindo autenticação, controle de permissões e otimização de performance — com melhorias de até 50% em aplicações reais. Também desenvolvo automações que reduzem significativamente tarefas operacionais, gerando ganho direto de produtividade.
+Apaixonado por tecnologia e inovação, acredito no desenvolvimento de soluções que geram impacto real para pessoas e negócios. Possuo perfil analítico, criativo e adaptável, com facilidade para aprender novas tecnologias e enfrentar desafios. Sou comprometido com a qualidade das entregas, valorizo o trabalho em equipe e busco constantemente aprimorar meus conhecimentos para evoluir como profissional e contribuir para resultados cada vez melhores.
 
-Tenho experiência tanto em ambiente corporativo quanto como freelancer, entregando soluções completas para diferentes contextos de negócio.
 
-Além do stack principal, possuo conhecimento em outras tecnologias como Python, PHP, C#, além de experiência com bancos de dados relacionais e não relacionais.
-
-Busco constantemente evoluir tecnicamente e contribuir com soluções eficientes, bem estruturadas e com impacto real no negócio.
 
 ---
 
