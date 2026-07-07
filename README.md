@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About me
 
-Hello, my name is Guilherme Carvalho!
+<img src="https://arturbomtempo-dev.github.io/arturbomtempo-cdn/assets/images/profile/waving-hand.gif" width="30px" Hello, my name is Guilherme Carvalho!
 
 Passionate about technology and innovation, I believe in developing solutions that create real impact for people and businesses. I have an analytical, creative, and adaptable mindset, with an aptitude for learning new technologies and tackling challenges. I am committed to the quality of my work, value teamwork, and constantly seek to enhance my knowledge to grow as a professional and contribute to increasingly better results.
 
